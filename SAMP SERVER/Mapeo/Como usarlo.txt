@@ -1,0 +1,5 @@
+primero abrimos la carpeta 
+y abrimos el que dice "samp-server.exe"
+dejen la ventana abierta 
+despues entran al samp y agregan el servidor "localhost"
+cuando hagan esto le va a dar report crash, van a tener que hacer lo del parche y lo del registro (solucion de report crash)
